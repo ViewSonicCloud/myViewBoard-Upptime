@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ViewSonicCloud/myViewBoard-Upptime/master/assets/icon.svg
   name: myViewBoard Cloud Service Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "myViewBoard Web Service Status."
   introMessage: public availability for myviewboard.com
   navbar:
     - title: Status
