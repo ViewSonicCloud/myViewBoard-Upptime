@@ -11,6 +11,7 @@ sites:
     url: https://api.myviewboard.com
 
 status-website:
+  apiBaseUrl: https://api.github.com
   publish: true
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -23,6 +24,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+i18n:
+  footer: myViewBoard status page is powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
