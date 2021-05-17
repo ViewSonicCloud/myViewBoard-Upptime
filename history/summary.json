@@ -4,19 +4,19 @@
     "url": "https://wiki.myviewboard.com",
     "icon": "https://favicons.githubusercontent.com/wiki.myviewboard.com",
     "slug": "my-view-board-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 854,
-    "timeWeek": 902,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 925,
+    "timeDay": 831,
+    "timeWeek": 889,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2021-05-17": 0
+      "2021-05-17": 17
     }
   },
   {
