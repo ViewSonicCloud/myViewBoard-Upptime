@@ -24,19 +24,19 @@
     "url": "https://myviewboard.com",
     "icon": "https://favicons.githubusercontent.com/myviewboard.com",
     "slug": "myviewboard-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 234,
-    "timeDay": 174,
-    "timeWeek": 230,
+    "timeDay": 190,
+    "timeWeek": 229,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2021-05-19": 0
+      "2021-05-19": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.myviewboard.com",
     "icon": "https://favicons.githubusercontent.com/api.myviewboard.com",
     "slug": "my-view-board-web-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 598,
-    "timeWeek": 675,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 646,
+    "timeDay": 660,
+    "timeWeek": 687,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2021-05-19": 0
+      "2021-05-19": 14
     }
   }
 ]
