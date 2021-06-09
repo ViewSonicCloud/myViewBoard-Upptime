@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/wiki.myviewboard.com",
     "slug": "my-view-board-wiki",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1012,
-    "timeDay": 935,
-    "timeWeek": 1108,
-    "timeMonth": 1017,
-    "timeYear": 1012,
+    "uptimeYear": "99.97%",
+    "time": 1004,
+    "timeDay": 719,
+    "timeWeek": 1056,
+    "timeMonth": 1006,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2021-05-17": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 437,
-    "timeDay": 1155,
-    "timeWeek": 1120,
-    "timeMonth": 467,
-    "timeYear": 437,
+    "time": 463,
+    "timeDay": 1432,
+    "timeWeek": 1123,
+    "timeMonth": 505,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2021-05-19": 14
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 794,
-    "timeDay": 1707,
-    "timeWeek": 1290,
-    "timeMonth": 815,
-    "timeYear": 794,
+    "time": 797,
+    "timeDay": 903,
+    "timeWeek": 1291,
+    "timeMonth": 827,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2021-05-19": 14
     }
