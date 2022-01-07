@@ -43,17 +43,19 @@
     "url": "https://api.myviewboard.com",
     "icon": "https://favicons.githubusercontent.com/api.myviewboard.com",
     "slug": "my-view-board-web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 1828,
-    "timeWeek": 1473,
-    "timeMonth": 1416,
-    "timeYear": 1238,
-    "dailyMinutesDown": {}
+    "time": 1236,
+    "timeDay": 1203,
+    "timeWeek": 1361,
+    "timeMonth": 1389,
+    "timeYear": 1236,
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   }
 ]
