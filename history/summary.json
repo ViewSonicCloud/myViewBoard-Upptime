@@ -4,9 +4,9 @@
     "url": "https://wiki.myviewboard.com",
     "icon": "https://favicons.githubusercontent.com/wiki.myviewboard.com",
     "slug": "my-view-board-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1245,
     "timeYear": 1368,
     "dailyMinutesDown": {
+      "2022-05-27": 0,
       "2021-08-16": 20
     }
   },
