@@ -2,7 +2,7 @@
   {
     "name": "myViewBoard Wiki",
     "url": "https://wiki.myviewboard.com",
-    "icon": "https://favicons.githubusercontent.com/wiki.myviewboard.com",
+    "icon": "https://icons.duckduckgo.com/ip3/wiki.myviewboard.com.ico",
     "slug": "my-view-board-wiki",
     "status": "up",
     "uptime": "99.98%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1330,
-    "timeDay": 1246,
-    "timeWeek": 1657,
-    "timeMonth": 1255,
-    "timeYear": 1347,
+    "timeDay": 966,
+    "timeWeek": 1668,
+    "timeMonth": 1256,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2022-05-27": 127
     }
@@ -22,7 +22,7 @@
   {
     "name": "myviewboard.com",
     "url": "https://myviewboard.com",
-    "icon": "https://favicons.githubusercontent.com/myviewboard.com",
+    "icon": "https://icons.duckduckgo.com/ip3/myviewboard.com.ico",
     "slug": "myviewboard-com",
     "status": "up",
     "uptime": "100.00%",
@@ -30,17 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 1317,
-    "timeWeek": 1229,
-    "timeMonth": 1224,
-    "timeYear": 1216,
+    "time": 1208,
+    "timeDay": 1305,
+    "timeWeek": 1233,
+    "timeMonth": 1220,
+    "timeYear": 1217,
     "dailyMinutesDown": {}
   },
   {
     "name": "myViewBoard Web Service",
     "url": "https://api.myviewboard.com",
-    "icon": "https://favicons.githubusercontent.com/api.myviewboard.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.myviewboard.com.ico",
     "slug": "my-view-board-web-service",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1338,
-    "timeDay": 1757,
-    "timeWeek": 1465,
-    "timeMonth": 1334,
-    "timeYear": 1359,
+    "time": 1340,
+    "timeDay": 1740,
+    "timeWeek": 1466,
+    "timeMonth": 1354,
+    "timeYear": 1360,
     "dailyMinutesDown": {}
   }
 ]
