@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1063,
+    "time": 1062,
     "timeDay": 545,
     "timeWeek": 646,
     "timeMonth": 754,
-    "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "timeYear": 1014,
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   },
   {
     "name": "myviewboard.com",
