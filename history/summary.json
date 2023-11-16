@@ -4,19 +4,20 @@
     "url": "https://wiki.myviewboard.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.myviewboard.com.ico",
     "slug": "my-view-board-wiki",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 545,
-    "timeWeek": 646,
-    "timeMonth": 754,
-    "timeYear": 1014,
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "13.62%",
+    "uptimeWeek": "87.66%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "99.76%",
+    "time": 1059,
+    "timeDay": 109,
+    "timeWeek": 510,
+    "timeMonth": 716,
+    "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-11-15": 0
+      "2023-11-16": 1,
+      "2023-11-15": 1242
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 8,
-    "timeWeek": 9,
-    "timeMonth": 512,
-    "timeYear": 751,
+    "time": 878,
+    "timeDay": 85,
+    "timeWeek": 20,
+    "timeMonth": 477,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 454,
-    "timeWeek": 520,
-    "timeMonth": 1003,
-    "timeYear": 1047,
+    "time": 1135,
+    "timeDay": 440,
+    "timeWeek": 510,
+    "timeMonth": 965,
+    "timeYear": 1043,
     "dailyMinutesDown": {}
   }
 ]
