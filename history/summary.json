@@ -4,7 +4,7 @@
     "url": "https://wiki.myviewboard.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.myviewboard.com.ico",
     "slug": "my-view-board-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 469,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2025-02-10": 0,
       "2024-02-29": 260
     }
   },
