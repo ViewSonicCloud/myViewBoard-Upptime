@@ -43,17 +43,19 @@
     "url": "https://api.myviewboard.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.myviewboard.com.ico",
     "slug": "my-view-board-web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 580,
-    "timeWeek": 544,
-    "timeMonth": 562,
+    "time": 577,
+    "timeDay": 560,
+    "timeWeek": 542,
+    "timeMonth": 561,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   }
 ]
