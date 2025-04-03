@@ -1,7 +1,7 @@
 url: https://api.myviewboard.com
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2025-04-02T23:05:11.923Z
+status: down
+code: 403
+responseTime: 819
+lastUpdated: 2025-04-03T19:33:48.167Z
 startTime: 2021-05-06T12:32:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
